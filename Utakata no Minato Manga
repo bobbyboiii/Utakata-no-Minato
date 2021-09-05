@@ -1,12 +1,12 @@
 {
   "title": "Utakata no Minato",
-  "description": "Minato Wadatsumi is a boy who was born and raised in a port town, and has an extreme phobia of fish. One day while walking to school, he reluctantly helps a fish back into the water; not knowing how it will change his destiny. A romantic comedy set 3000 meters under the sea!",
+  "description": "<manga description>",
   "artist": "Keke Kitaya",
-  "author": "<Keke Kitaya",
+  "author": "Keke Kitaya",
   "cover": "https://shop.r10s.jp/book/cabinet/6798/9784098506798_1_2.jpg",
   "chapters": {
     "11": {
-      "title": "Luminous Festa",
+      "title": "<Luminous Festa",
       "volume": "2",
       "groups": {
         "Soukyuu Scans": "/proxy/api/imgur/chapter/IDUcWpk/"
