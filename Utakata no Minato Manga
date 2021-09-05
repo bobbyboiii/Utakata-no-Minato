@@ -11,7 +11,7 @@
       "groups": {
         "Soukyuu Scans": "/proxy/api/imgur/chapter/IDUcWpk/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1630821681"
     },
     
     "12": {
@@ -20,7 +20,7 @@
       "groups": {
         "Soukyuu Scans": "/proxy/api/imgur/chapter/6J5frJT/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1630821681"
     },
     
      "13": {
@@ -29,7 +29,7 @@
       "groups": {
         "Soukyuu Scans": "/proxy/api/imgur/chapter/rNQHAhj/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1630821681"
     },
     
     "14": {
@@ -38,7 +38,7 @@
       "groups": {
         "Soukyuu Scans": "/proxy/api/imgur/chapter/wYLFYfb/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1630821681"
     },
     
     "15": {
@@ -47,7 +47,16 @@
       "groups": {
         "Soukyuu Scans": "/proxy/api/imgur/chapter/dj88hls/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1630821681"
+    },
+    
+    "15": {
+      "title": "Entranced by the Ocean",
+      "volume": "3",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/0Lkb42D/"
+      },
+      "last_updated": "1630821681"
     }
   }
 }
